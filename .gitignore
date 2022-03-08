@@ -6,7 +6,8 @@ ttest
 *.pyc
 *.infer
 *.npy
-
+train.txt
+val.txt
 z_demo_*
 
 __pycache__
